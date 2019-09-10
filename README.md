@@ -1,2 +1,3 @@
 # Trie-in-C
-Trie_Anaptyksh
+
+University project in C.
